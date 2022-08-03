@@ -11,5 +11,5 @@ Exercício de Orientação a Objetos com Javascript
 8. Crie uma classe-filha chamada ContaUniversitaria que herda todos os parâmetros de ContaBancaria;
 9. Faça com que o método saque de ContaUniversitaria apenas seja capaz de sacar valores menores que 500 reais.
 
-Imagem de testes no console:
+
 ![poojs](https://user-images.githubusercontent.com/57869203/182520546-6fc3ce4b-205a-4338-8c05-1511f3c8d489.jpeg)
